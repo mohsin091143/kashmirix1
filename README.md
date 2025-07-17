@@ -1,34 +1,50 @@
 <p align="center">
-  <img src="https://i.ibb.co/spG53SbJ/kashmiri.png" width="500" alt="Kashmiri Bot Logo" />
+  <img src="https://i.ibb.co/spG53SbJ/kashmiri.png" width="400" alt="Kashmiri Bot Logo">
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=14FF7C&center=true&vCenter=true&repeat=true&width=535&lines=KASHMIRI+BUG+BOT;VERSION+X1..." alt="Typing SVG" />
+  <marquee behavior="scroll" direction="left" scrollamount="10">
+    <span style="color: red; font-weight: bold; font-size: 28px;">
+      🚀 KASHMIRI BUG BOT • VERSION X1 🚀
+    </span>
+  </marquee>
 </h1>
 
 ---
 
-## ⚙️ About
-**Kashmiri Bug Bot** is a Multi-Device WhatsApp bot built with `@whiskeysockets/baileys` using Node.js. It’s a powerful, feature-rich bot designed for maximum customization, fun, and productivity.
+## 📱 About
+
+**KASHMIRI BUG BOT** is a powerful multi-device WhatsApp bot built with [@whiskeysockets/baileys](https://github.com/WhiskeySockets/Baileys) using `baileys-pro`. It is designed for speed, scalability, and extreme customization, with dozens of modules to automate your WhatsApp tasks.
 
 ---
 
 ## 🚀 Features
 
-- WhatsApp MD (Multi-Device)
-- High Performance & Secure
-- Group & User Commands
-- Stickers, Downloaders, Tools, and more
-- Easy Configuration
+- Multi-device session management  
+- QR code terminal pairing  
+- Auto-reconnect and anti-ban support  
+- YouTube downloader, sticker tools, media converter  
+- Logging, chalk console, figlet splash  
+- Auto-reply and advanced group management  
+- Telegram × WhatsApp integration ready  
+- Designed for Pakistani + Kashmiri audience
 
 ---
 
-## 📦 Installation (For Termux)
+## 📸 Preview
+
+<p align="center">
+  <img src="https://i.ibb.co/spG53SbJ/kashmiri.png" width="600">
+</p>
+
+---
+
+## 🛠 Installation (Termux)
 
 ```bash
-pkg update && pkg upgrade -y
+pkg update && pkg upgrade
 pkg install nodejs git -y
-git clone https://github.com/yourusername/kashmiri-bot
+git clone https://github.com/your-username/kashmiri-bot
 cd kashmiri-bot
 npm install
 node index.js
