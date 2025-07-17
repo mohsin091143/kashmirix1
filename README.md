@@ -19,7 +19,7 @@
 
 ## 🔥 About the Bot
 
-**KASHMIRI BUG BOT — VERSION X1** is a high-performance, multi-device WhatsApp bot built on top of the powerful [Baileys Pro](https://www.npmjs.com/package/@fizzxydev/baileys-pro) library. It supports command automation, terminal QR login, and is optimized for speed and customization.
+**KASHMIRI BUG BOT — VERSION X1** is a high-performance, multi-device WhatsApp bot built on top of the powerful [Baileys Pro](https://www.npmjs.com) library. It supports command automation, pair code login, and is optimized for speed and customization.
 
 ---
 
@@ -27,7 +27,7 @@
 
 | Feature                          | Description                                       |
 |----------------------------------|---------------------------------------------------|
-| 🟢 Multi-Device Login            | Supports WhatsApp MD with terminal QR login       |
+| 🟢 Multi-Device Login            | Supports WhatsApp MD with pair code login       |
 | ⚡ Blazing Fast                  | Lightweight and optimized for speed               |
 | 🎨 Stylish Terminal              | Uses `chalk`, `figlet`, and `colors` for UI       |
 | 📥 API Integration              | Axios, fetch, and more for external data          |
@@ -55,8 +55,8 @@ pkg update -y && pkg upgrade -y
 pkg install nodejs git ffmpeg libwebp -y
 
 # 3. Clone the bot repo
-git clone https://github.com/yourusername/kashmiri-bug-bot.git
-cd kashmiri-bug-bot
+git clone https://github.com/mohsin091143/kashmirix1.git
+cd kashmirix1
 
 # 4. Install node modules
 npm install
