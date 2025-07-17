@@ -1,54 +1,61 @@
-<h1 align="center">🤖 Kashmiri WhatsApp Multi-Device Bot</h1>
+<h1 align="center">🐞 KASHMIRI BUG BOT</h1>
+<h3 align="center">🚀 VERSION X1 — The Ultimate WhatsApp MD Automation Bot</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WhatsApp-Bot-green?style=for-the-badge&logo=whatsapp" />
-  <img src="https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram" />
-  <img src="https://img.shields.io/badge/Node.js-18.x-brightgreen?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/github/license/yourusername/kashmiri-bot?style=flat-square" />
+  <img src="https://i.ibb.co/spG53SbJ/kashmiri.png" alt="Kashmiri Bug Bot Banner" width="500" />
+</p>
+
+<p align="center">
+  <a href="https://whatsapp.com/channel/0029VaieFO2HFxOtUtwLvQ0b"><img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-green?style=for-the-badge&logo=whatsapp" /></a>
+  <a href="https://t.me/kashmiri_botz"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-blue?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://t.me/kashmiri1_1"><img src="https://img.shields.io/badge/Contact-Developer-informational?style=for-the-badge&logo=telegram" /></a>
 </p>
 
 ---
 
-## 📢 Official Channels
+## 🔥 About the Bot
 
-- 📲 WhatsApp Channel: [Join Now](https://whatsapp.com/channel/0029VaieFO2HFxOtUtwLvQ0b)
-- 📣 Telegram Channel: [@kashmiri_botz](https://t.me/kashmiri_botz)
-- 🧑‍💻 Developer: [@kashmiri1_1](https://t.me/kashmiri1_1)
+**KASHMIRI BUG BOT — VERSION X1** is a high-performance, multi-device WhatsApp bot built on top of the powerful [Baileys Pro](https://www.npmjs.com/package/@fizzxydev/baileys-pro) library. It supports command automation, terminal QR login, and is optimized for speed and customization.
 
 ---
 
-## ⚙️ Features
+## ✨ Features
 
-- 🔄 WhatsApp Multi-Device support (Baileys Pro)
-- 💬 QR Code-based login in terminal
-- 📥 Auto dependency install
-- 🎨 Terminal styling with `chalk`, `figlet`, etc.
-- 🎯 Lightweight and easy to modify
-- 🌐 Runs on Termux, Linux, Windows
-
----
-
-## 🧰 Requirements
-
-- ✅ Node.js 18+  
-- ✅ Termux / Linux / Windows Terminal  
-- ✅ Git and npm  
-- ✅ Internet access for QR scan  
+| Feature                          | Description                                       |
+|----------------------------------|---------------------------------------------------|
+| 🟢 Multi-Device Login            | Supports WhatsApp MD with terminal QR login       |
+| ⚡ Blazing Fast                  | Lightweight and optimized for speed               |
+| 🎨 Stylish Terminal              | Uses `chalk`, `figlet`, and `colors` for UI       |
+| 📥 API Integration              | Axios, fetch, and more for external data          |
+| 🖼 Image Manipulation            | Powered by `jimp`                                 |
+| 🧠 Developer Friendly            | Simple file structure and modular commands        |
 
 ---
 
-## 📦 Installation (Termux)
+## 📦 Requirements
+
+- Node.js 18+
+- Termux / Linux / Windows Terminal
+- Git + npm
+- WhatsApp with QR scanner
+
+---
+
+## 🚀 Installation (Termux)
 
 ```bash
 # 1. Update Termux
 pkg update -y && pkg upgrade -y
 
-# 2. Install required packages
+# 2. Install dependencies
 pkg install nodejs git ffmpeg libwebp -y
 
-# 3. Clone the bot
-git clone https://github.com/yourusername/kashmiri-bot.git
-cd kashmiri-bot
+# 3. Clone the bot repo
+git clone https://github.com/yourusername/kashmiri-bug-bot.git
+cd kashmiri-bug-bot
 
-# 4. Install all modules
+# 4. Install node modules
 npm install
+
+# 5. Run the bot
+node index.js
