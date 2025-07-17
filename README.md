@@ -2,33 +2,27 @@
   <img src="https://i.ibb.co/spG53SbJ/kashmiri.png" width="250" alt="Kashmiri Bot Logo" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=700&color=FF0000&center=true&vCenter=true&repeat=true&width=500&lines=🔥+KASHMIRI+BUG+BOT+🔥;❤️‍🔥+VERSION+X1+RUNNING...+❤️‍🔥" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <span class="marquee-text">🔥 KASHMIRI BUG BOT | VERSION X1 RUNNING... 🔥</span>
+</h1>
 
----
+<style>
+  .marquee-text {
+    display: inline-block;
+    font-weight: bold;
+    color: red;
+    font-size: 24px;
+    white-space: nowrap;
+    overflow: hidden;
+    animation: marquee 10s linear infinite;
+  }
 
-## ⚙️ About
-**Kashmiri Bug Bot** is a Multi-Device WhatsApp bot built with `@whiskeysockets/baileys` using Node.js. It’s a powerful, feature-rich bot designed for maximum customization, fun, and productivity.
-
----
-
-## 🚀 Features
-
-- WhatsApp MD (Multi-Device)
-- High Performance & Secure
-- Group & User Commands
-- Stickers, Downloaders, Tools, and more
-- Easy Configuration
-
----
-
-## 📦 Installation (For Termux)
-
-```bash
-pkg update && pkg upgrade -y
-pkg install nodejs git -y
-git clone https://github.com/yourusername/kashmiri-bot
-cd kashmiri-bot
-npm install
-node index.js
+  @keyframes marquee {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+</style>
