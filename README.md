@@ -1,5 +1,5 @@
 <h1 align="center">🐞 KASHMIRI BUG BOT</h1>
-<h3 align="center">🚀 VERSION X1 — The Ultimate WhatsApp MD Automation Bot</h3>
+<h3 align="center">🚀 VERSION X1 — The Ultimate WhatsApp Bug Automation Bot</h3>
 
 <p align="center">
   <img src="https://i.ibb.co/spG53SbJ/kashmiri.png" alt="Kashmiri Bug Bot Banner" width="400" />
