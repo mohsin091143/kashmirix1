@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://i.ibb.co/spG53SbJ/kashmiri.png" width="250" alt="Kashmiri Bot Logo" />
+  <img src="https://i.ibb.co/spG53SbJ/kashmiri.png" width="500" alt="Kashmiri Bot Logo" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=14FF7C&center=true&vCenter=true&repeat=true&width=435&lines=KASHMIRI+BUG+BOT;VERSION+X1+RUNNING..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=14FF7C&center=true&vCenter=true&repeat=true&width=435&lines=KASHMIRI+BUG+BOT;VERSION+X1..." alt="Typing SVG" />
 </h1>
 
 ---
