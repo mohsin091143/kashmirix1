@@ -49,7 +49,10 @@
 
 ```bash
 # 1. Update Termux
-pkg update -y && pkg upgrade -y
+pkg update
+pkg upgrade
+pkg install git
+pkg install yarn 
 
 # 2. Install dependencies
 pkg install nodejs git ffmpeg libwebp -y
@@ -62,4 +65,4 @@ cd kashmirix1
 npm install
 
 # 5. Run the bot
-node index.js
+npm start
