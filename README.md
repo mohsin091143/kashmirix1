@@ -2,38 +2,28 @@
   <img src="https://i.ibb.co/spG53SbJ/kashmiri.png" width="250" alt="Kashmiri Bot Logo" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=900&color=FF0000&center=true&vCenter=true&width=600&lines=🔥+KASHMIRI+BUG+BOT+|+VERSION+X1+🔥;Now+Running...;Stable+and+Powerful..." alt="Typing Animation" />
-</h1>
-
----
-
 <p align="center">
-  <b><a href="https://whatsapp.com/channel/0029VaieFO2HFxOtUtwLvQ0b">📢 WhatsApp Channel</a> • 
-  <a href="https://t.me/kashmiri_botz">Telegram Channel</a> • 
-  <a href="https://t.me/kashmiri1_1">Telegram Dev</a></b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=700&color=FF0000&center=true&vCenter=true&repeat=true&width=500&lines=🔥+KASHMIRI+BUG+BOT+🔥;❤️‍🔥+VERSION+X1+RUNNING...+❤️‍🔥" alt="Typing SVG" />
 </p>
 
 ---
 
 ## ⚙️ About
-
-**Kashmiri Bug Bot** is a powerful WhatsApp MD (Multi-Device) bot built with `@whiskeysockets/baileys` using **Node.js**. It provides extreme control, advanced automation, and next-level features tailored for pro users and developers.
+**Kashmiri Bug Bot** is a Multi-Device WhatsApp bot built with `@whiskeysockets/baileys` using Node.js. It’s a powerful, feature-rich bot designed for maximum customization, fun, and productivity.
 
 ---
 
 ## 🚀 Features
 
-- ✅ WhatsApp Multi-Device Support
-- ⚡ Fast, Lightweight, and Secure
-- 🎯 Group & Private Commands
-- 🎨 Media Tools, Converters, Downloaders
-- 🤖 Sticker Maker, Fun Tools, Admin Functions
-- 📂 Easy Config & Customizable Codebase
+- WhatsApp MD (Multi-Device)
+- High Performance & Secure
+- Group & User Commands
+- Stickers, Downloaders, Tools, and more
+- Easy Configuration
 
 ---
 
-## 📦 Installation (Termux / Linux)
+## 📦 Installation (For Termux)
 
 ```bash
 pkg update && pkg upgrade -y
