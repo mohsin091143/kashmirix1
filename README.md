@@ -11,8 +11,8 @@
 
 <p align="center">
   <a href="https://whatsapp.com/channel/0029Vb6I0vu7j6fzT8MTfp1w"><img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-green?style=for-the-badge&logo=whatsapp" /></a>
-  <a href="https://t.me/kashmiri_botz"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-blue?style=for-the-badge&logo=telegram" /></a>
-  <a href="https://t.me/kashmiri1_1"><img src="https://img.shields.io/badge/Contact-Developer-informational?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://t.me/Next_DYS"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-blue?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://t.me/DES_DM"><img src="https://img.shields.io/badge/Contact-Developer-informational?style=for-the-badge&logo=telegram" /></a>
 </p>
 
 ---
