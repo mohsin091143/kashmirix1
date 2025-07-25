@@ -1,8 +1,8 @@
-<h1 align="center">🐞 KASHMIRI BUG BOT</h1>
-<h3 align="center">🚀 VERSION X1 — The Ultimate WhatsApp Bug Automation Bot</h3>
+<h1 align="center">🐞 DEMON EYE ™</h1>
+<h3 align="center">🚀 YOUTUBE CHANNEL— The Ultimate WhatsApp Bug Automation Bot</h3>
 
 <p align="center">
-  <img src="https://i.ibb.co/spG53SbJ/kashmiri.png" alt="Kashmiri Bug Bot Banner" width="400" />
+  <img src="https://ibb.co/7JqXc00z/kashmiri.png" alt="Kashmiri Bug Bot Banner" width="400" />
 </p>
 
 <h1 align="center">
@@ -10,9 +10,9 @@
 </h1>
 
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029VaieFO2HFxOtUtwLvQ0b"><img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-green?style=for-the-badge&logo=whatsapp" /></a>
-  <a href="https://t.me/kashmiri_botz"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-blue?style=for-the-badge&logo=telegram" /></a>
-  <a href="https://t.me/kashmiri1_1"><img src="https://img.shields.io/badge/Contact-Developer-informational?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://whatsapp.com/channel/0029Vb6I0vu7j6fzT8MTfp1w"><img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-green?style=for-the-badge&logo=whatsapp" /></a>
+  <a href="https://t.me/Next_DYS"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-blue?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://t.me/DES_DM"><img src="https://img.shields.io/badge/Contact-Developer-informational?style=for-the-badge&logo=telegram" /></a>
 </p>
 
 ---
@@ -66,3 +66,5 @@ npm install
 
 # 5. Run the bot
 npm start
+
+[//]: # THIS CREATES TO DEMON EYE SUPPORT 
