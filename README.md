@@ -58,7 +58,7 @@ pkg install yarn
 pkg install nodejs git ffmpeg libwebp -y
 
 # 3. Clone the bot repo
-git clone https://github.com/mohsin091143/kashmirix1.git
+git clone https://github.com/scamer0018/kashmirix1-x.git
 cd kashmirix1
 
 # 4. Install node modules
