@@ -2,8 +2,8 @@
 <h3 align="center">🚀 YOUTUBE CHANNEL— The Ultimate WhatsApp Bug Automation Bot</h3>
 
 <p align="center">
-  <img src="https://ibb.co/7JqXc00z/kashmiri.png" alt=" https://ibb.co/7JqXc00z/kashmiri.png" width="400" />
-</p>
+  <img src="https://ibb.co/S7nDKdBc.png" alt="https://ibb.co/S7nDKdBc.png" width="400" />
+</p
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=14FF7C&center=true&vCenter=true&repeat=true&width=435&lines=KASHMIRI+BUG+BOT;VERSION+X1..." alt="Typing SVG" />
