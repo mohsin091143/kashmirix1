@@ -2,7 +2,7 @@
 <h3 align="center">🚀 YOUTUBE CHANNEL— The Ultimate WhatsApp Bug Automation Bot</h3>
 
 <p align="center">
-  <img src="https://ibb.co/7JqXc00z/kashmiri.png" alt="Kashmiri Bug Bot Banner" width="400" />
+  <img src="https://ibb.co/7JqXc00z/kashmiri.png" alt=" https://ibb.co/7JqXc00z/kashmiri.png" width="400" />
 </p>
 
 <h1 align="center">
